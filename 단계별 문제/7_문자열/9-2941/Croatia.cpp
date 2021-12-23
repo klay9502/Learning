@@ -43,16 +43,6 @@ int CheckChar(char* _ptrChar)
 
 int main(void)
 {
-	string ex_str[8] = {
-		"c=",
-		"c-",
-		"dz=",
-		"d-",
-		"lj",
-		"nj",
-		"s=",
-		"z=",
-	};
 	string str;
 	int count = 0;
 	int del_count = 0;
