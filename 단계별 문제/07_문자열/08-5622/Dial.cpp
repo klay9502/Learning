@@ -33,7 +33,7 @@ int main(void)
 
     cout << sum;
     
-    
+    delete[] dial;
 
     return 0;
 }
