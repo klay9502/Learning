@@ -1,6 +1,4 @@
-﻿// 본 문제는 EOF에 대한 이해도를 시험하는 문제이다.
-
-#include <iostream>
+﻿#include <iostream>
 
 int main(void)
 {
