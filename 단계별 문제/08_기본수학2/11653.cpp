@@ -5,7 +5,6 @@ using namespace std;
 int main(void)
 {
 	int n = 0;
-	bool check = false;
 
 	cin >> n;
 
